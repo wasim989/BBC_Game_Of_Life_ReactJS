@@ -8,11 +8,11 @@
     "react-scripts": "3.2.0"
   },
   "devDependencies": {
-    "@babel/preset-env": "<current-version>",
-    "@babel/preset-react": "<current-version>",
-    "babel-jest": "<current-version>",
-    "jest": "<current-version>",
-    "react-test-renderer": "<current-version>"
+    "@babel/preset-env": "*",
+    "@babel/preset-react": "*",
+    "babel-jest": "*",
+    "jest": "*",
+    "react-test-renderer": "*"
   },
   "scripts": {
     "start": "react-scripts start",
